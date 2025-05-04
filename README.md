@@ -1,1 +1,3 @@
-# learn-modern-javascript
+# Learn Modern Javascript
+
+just learn modern javascript
